@@ -1,0 +1,9 @@
+QPushButton {
+    border: 2px solid #dcdcdc;
+    background-color: #333333;
+    color: #ffffff;
+    padding: 5px 15px;
+    font: bold 9pt "微软雅黑";
+    text-transform: uppercase;
+}
+

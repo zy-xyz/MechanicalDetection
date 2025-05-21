@@ -1,0 +1,12 @@
+path: L:/PythonCode/PySideCode/YOLOv8v5Code/MechanicalDetection/datasets/Mechanical
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 6
+names:
+- bearing
+- bolt
+- flange
+- gear
+- nut
+- spring
